@@ -1,5 +1,5 @@
 #!/bin/sh
-temp="/home/goodman/AX/venv/bot/temp/"
+temp="${HOME}/AX/venv/bot/temp/"
 name=$(yt-dlp --output "%(title)s" -x --print filename $1)
 yt-dlp --output "${temp}%(title)s" -x $1 &> /dev/null
 newname=$(echo -n $name | tr ' ' '_')
