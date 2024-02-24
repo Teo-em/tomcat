@@ -12,15 +12,15 @@ Dentro de las funciones programadas están: descargar audios de videos de [varia
 tom [opción]
 
 **Opciones:**
-+-a, --audio       Descarga el audio de un video y lo envía
-*    --avatar      Muestra el avatar de un usuario
-+-c, --cara-o-cruz** 50/50 cara o cruz.
-*    --cumple      Manejo de las fechas de cumpleaños, el bot avisa por general del servidor.
-+      add dd/mm/aaaa Agrega la fecha propia al recordatorio.
-*      delete         Elimina el recordatorio.
-+-d, --dolar       Imprime el precio del dólar blue en pesos.
-*-h, --help        Imprime este mensaje.
-+-m, --mensaje [usuario] [texto] Envía un mensaje a "usuario".
-*        Usuario puede ser el username, el tag o id => <@id>
-+-q, --que-hace-teo? Qué hace teo?(deprecated).
-*-t, --traducir [texto] Traduce texto al español.
+- -a, --audio       Descarga el audio de un video y lo envía
+-    --avatar      Muestra el avatar de un usuario
+- -c, --cara-o-cruz** 50/50 cara o cruz.
+-    --cumple      Manejo de las fechas de cumpleaños, el bot avisa por general del servidor.
+-      add dd/mm/aaaa Agrega la fecha propia al recordatorio.
+-      delete         Elimina el recordatorio.
+- -d, --dolar       Imprime el precio del dólar blue en pesos.
+- -h, --help        Imprime este mensaje.
+- -m, --mensaje [usuario] [texto] Envía un mensaje a "usuario".
+-        Usuario puede ser el username, el tag o id => <@id>
+- -q, --que-hace-teo? Qué hace teo?(deprecated).
+- -t, --traducir [texto] Traduce texto al español.
