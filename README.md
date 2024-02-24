@@ -5,7 +5,7 @@ La idea principal es la de extenderles a mis amigos las herramientas que me brin
 
 ## Funciones
 
-Dentro de las funciones programadas están: descargar audios de videos de [varias plataformas](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md), mostrar el avatar de un miembro del canal, "cara o cruz" con la clásica moneda del peso argentino, recordatorio de cumpleaños, mostrar el precio del dolar blue, mensajes anónimos (se limita a personas que compartan servidor), traducir texto al español y una función que cuando se ejecuta, independientemente de lo que esté haciendo, toma una captura de pantalla y la envía.
+Descargar audios de videos de [varias plataformas](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md), mostrar el avatar de un miembro del canal, "cara o cruz" con la clásica moneda del peso argentino, recordatorio de cumpleaños, mostrar el precio del dolar blue, mensajes anónimos (se limita a personas que compartan servidor), traducir texto al español y una función que cuando se ejecuta, independientemente de lo que esté haciendo, toma una captura de pantalla y la envía.
 
 ## Uso
 
