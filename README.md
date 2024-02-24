@@ -13,14 +13,14 @@ tom [opción]
 
 **Opciones:**
 +-a, --audio       Descarga el audio de un video y lo envía
-+    --avatar      Muestra el avatar de un usuario
+*    --avatar      Muestra el avatar de un usuario
 +-c, --cara-o-cruz** 50/50 cara o cruz.
-+    --cumple      Manejo de las fechas de cumpleaños, el bot avisa por general del servidor.
+*    --cumple      Manejo de las fechas de cumpleaños, el bot avisa por general del servidor.
 +      add dd/mm/aaaa Agrega la fecha propia al recordatorio.
-+      delete         Elimina el recordatorio.
+*      delete         Elimina el recordatorio.
 +-d, --dolar       Imprime el precio del dólar blue en pesos.
-+-h, --help        Imprime este mensaje.
+*-h, --help        Imprime este mensaje.
 +-m, --mensaje [usuario] [texto] Envía un mensaje a "usuario".
-+        Usuario puede ser el username, el tag o id => <@id>
+*        Usuario puede ser el username, el tag o id => <@id>
 +-q, --que-hace-teo? Qué hace teo?(deprecated).
-+-t, --traducir [texto] Traduce texto al español.
+*-t, --traducir [texto] Traduce texto al español.
