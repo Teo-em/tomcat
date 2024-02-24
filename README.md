@@ -16,8 +16,8 @@ tom [opción]
 - **--avatar**      Muestra el avatar de un usuario
 - **-c, --cara-o-cruz** 50/50 cara o cruz.
 - **--cumple**      Manejo de las fechas de cumpleaños, el bot avisa por general del servidor.
-  -   add dd/mm/aaaa Agrega la fecha propia al recordatorio.
-  -   delete         Elimina el recordatorio.
+  -   **add dd/mm/aaaa** Agrega la fecha propia al recordatorio.
+  -   **delete**         Elimina el recordatorio.
 - **-d, --dolar**       Imprime el precio del dólar blue en pesos.
 - **-h, --help**        Imprime este mensaje.
 - **-m, --mensaje [usuario] [texto]** Envía un mensaje a "usuario".
